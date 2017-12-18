@@ -66,7 +66,7 @@ video#bgvid {
 	height: 2px;
 	bottom: 0;
 	left: 0;
-	background-color: #ff6100;
+	background-color: #b2ff00;
 	box-shadow: 1px 1px #333333;
 	visibility: hidden;
 	transform: scaleX(0);
