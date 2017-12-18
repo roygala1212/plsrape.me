@@ -54,7 +54,7 @@ $(document).ready(function() {
         $(this).animate({
             color: "#b2ff00"
         }, 300);
-        $(this).child(".test").animate({
+        $(this).find(".test").animate({
             color: "#b2ff00"
         });
     });
@@ -64,7 +64,7 @@ $(document).ready(function() {
         $(this).animate({
             color: "#ff6100"
         }, 300);
-        $(this).child(".test").animate({
+        $(this).find(".test").animate({
             color: "#ff6100"
         });
     });
