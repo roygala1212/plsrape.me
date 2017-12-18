@@ -4,9 +4,9 @@
 		<title>Mayhem</title>
 		<link rel="stylesheet" type="text/css" href="./src/css/style.css" />
 		<link rel="icon" type="image/jpeg" href="./src/media/icon.jpg" />
-		<script src="./src/js/jquery-3.2.1.min.js" />
-		<script src="./src/js/jquery.color-2.1.2.min.js" />
-		<script src="./src/js/mayhem.js" />
+		<script src="./src/js/jquery-3.2.1.min.js"></script>
+		<script src="./src/js/jquery.color-2.1.2.min.js"></script>
+		<script src="./src/js/mayhem.js"></script>
 		<!--[if lt IE 9]
 		<script>
 			document.createElement('video');
