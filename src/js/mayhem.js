@@ -56,7 +56,7 @@ $(document).ready(function() {
         }, 300);
         $(this + ":before").animate({
             backgroundColor: "#b2ff00"
-        });
+        }, 300);
     });
     
     $("a").mouseout(function() {
@@ -66,6 +66,6 @@ $(document).ready(function() {
         }, 300);
         $(this + ":before").animate({
             backgroundColor: "#ff6100"
-        });
+        }, 300);
     });
 });
