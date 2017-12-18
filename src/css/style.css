@@ -76,8 +76,8 @@ video#bgvid {
 
 #pageInfo a:hover:before {
 	visibility: visible;
-	transform: scaleX(0.8);
-	-webkit-transform: scaleX(0.8);
+	transform: scaleX(0.95);
+	-webkit-transform: scaleX(0.95);
 }
 
 .mayhem {
