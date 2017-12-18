@@ -54,6 +54,7 @@ video#bgvid {
 }
 
 #pageInfo a, #pageInfo a:link, #pageInfo a:visited, #pageInfo a:hover, #pageInfo a:active {
+	color: #ff6100;
 	text-decoration: none;
 }
 
