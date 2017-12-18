@@ -61,7 +61,7 @@
 					$(this).stop();
 					$(this).animate({
 						color: "#b2ff00",
-						textDecorationColor: jQuery.Color("rgba(255, 97, 0, 255)")
+						textDecorationColor: jQuery.Color("rgba(255, 97, 0, 1)")
 					}, 150);
 				});
 				
