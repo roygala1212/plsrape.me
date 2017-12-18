@@ -79,7 +79,7 @@ video#bgvid {
 	font-family: "simple" !important;
 	font-weight: bold;
 	position: relative;
-	bottom: 2px;
+	bottom: 10px;
 	letter-spacing: 1.5px;
 	font-size: 23px;
 	color: #ff6100;
