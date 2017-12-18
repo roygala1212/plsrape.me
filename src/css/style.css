@@ -59,7 +59,7 @@ video#bgvid {
 	text-decoration: none;
 }
 
-#pageInfo a:before {
+#pageInfo a.test:before {
 	content: "";
 	position: absolute;
 	width: 100%;
@@ -75,7 +75,7 @@ video#bgvid {
 	-webkit-transition: all 0.3s ease-in-out 0s;
 }
 
-#pageInfo a:hover:before {
+#pageInfo a.test:hover:before {
 	visibility: visible;
 	transform: scaleX(1);
 	-webkit-transform: scaleX(1);
