@@ -60,16 +60,14 @@
 				$("a").hover(function() {
 					$(this).stop();
 					$(this).animate({
-						color: "#b2ff00",
-						textDecorationColor: jQuery.Color("rgba(255, 97, 0, 1)")
+						color: "#b2ff00"
 					}, 150);
 				});
 				
 				$("a").mouseout(function() {
 					$(this).stop();
 					$(this).animate({
-						color: "#ff6100",
-						textDecorationColor: jQuery.Color("rgba(255, 97, 0, 0)")
+						color: "#ff6100"
 					}, 250);
 				});
 			});
