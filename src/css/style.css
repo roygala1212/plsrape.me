@@ -6,7 +6,7 @@
 }
 
 body {
-	background-color: #000000;
+	background-color: #333333;
 }
 
 video {
@@ -84,7 +84,7 @@ video#bgvid {
 .mayhem {
 	font-family: "blowbrush" !important;
 	font-size: 60px;
-	color: #c60000;
+	color: #ff5100;
 	width: 193px;
 	height: 72px;
 	opacity: 0;
