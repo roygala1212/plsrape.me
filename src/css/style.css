@@ -1,8 +1,6 @@
 @font-face {
 	src: url('../fonts/blowbrush.ttf');
 	font-family: "blowbrush";
-	src: url('../fonts/eagle.ttf');
-	font-family: "eagle";
 	src: url('../fonts/simple.ttf');
 	font-family: "simple";
 }
@@ -83,10 +81,4 @@ video#bgvid {
 	font-size: 25px;
 	color: #ff6100;
 	opacity: 0;
-}
-
-.zeus {
-	font-family: "eagle";
-	position: relative;
-	top: 3px;
 }

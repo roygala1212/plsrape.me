@@ -90,9 +90,9 @@
 			<span class="mayhem">Mayhem</span> <span class="mayhemSmall">//your #1 HvH tranny</span><br />
 			<div class="links">
 				<center>
-				<a href="http://steamcommunity.com/id/flickz_de" target="_blank">Steam</a> • 
-				<a href="http://steamcommunity.com/id/mayhemakafag" target="_blank">Steam Wingman</a> • 
-				<a href="https://paste.plsrape.me/user.php?user=mayhem" target="_blank">My configs</a> <span class="zeus">a</span>
+					<a href="http://steamcommunity.com/id/flickz_de" target="_blank">Steam</a> • 
+					<a href="http://steamcommunity.com/id/mayhemakafag" target="_blank">Steam Wingman</a> • 
+					<a href="https://paste.plsrape.me/user.php?user=mayhem" target="_blank">My configs for getze.us</a>
 				</center>
 			</div>
 		</div>
