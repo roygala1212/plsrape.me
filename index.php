@@ -83,14 +83,14 @@
 		<video playsinline autoplay loop poster="./src/media/video.png" id="bgvid">
 			<source src="./src/media/video.mp4" type="video/mp4" />
 			<script>
-				$("video#bgvid").prop("volume", 0.6);
+				$("video#bgvid").prop("volume", 0.4);
 			</script>
 		</video>
 		<div class="centered" id="pageInfo">
 			<span class="mayhem">Mayhem</span> <span class="mayhemSmall">//your #1 HvH tranny</span><br />
 			<div class="links">
-				<a href="http://steamcommunity.com/id/flickz_de" target="_blank">//Steamxd</a>
-				<a href="http://steamcommunity.com/id/mayhemakafag" target="_blank">//Steam Wingmanxd</a>
+				<a href="http://steamcommunity.com/id/flickz_de" target="_blank">//Steam</a>
+				<a href="http://steamcommunity.com/id/mayhemakafag" target="_blank">//Steam Wingman</a>
 				<a href="https://paste.plsrape.me/user.php?user=mayhem" target="_blank">//My configs</a> <span class="zeus">a</span>
 			</div>
 		</div>
