@@ -1,6 +1,10 @@
 @font-face {
 	src: url('../fonts/blowbrush.ttf');
+	font-family: "blowbrush";
 	src: url('../fonts/eagle.ttf');
+	font-family: "eagle";
+	src: url('../fonts/simple.ttf');
+	font-family: "simple";
 }
 
 body {
@@ -57,6 +61,7 @@ video#bgvid {
 }
 
 .mayhem {
+	font-family: "blowbrush" !important;
 	font-size: 60px;
 	color: #c60000;
 	width: 193px;
@@ -65,12 +70,14 @@ video#bgvid {
 }
 
 .mayhemSmall {
+	font-family: "blowbrush" !important;
 	font-size: 35px;
 	color: #ff6100;
 	opacity: 0;
 }
 
 .links {
+	font-family: "simple" !important;
 	font-size: 20px;
 	color: #ff6100;
 	opacity: 0;
