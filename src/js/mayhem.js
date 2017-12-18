@@ -55,7 +55,7 @@ $(document).ready(function() {
             color: "#b2ff00"
         }, 300);
         $(this).find(".test").animate({
-            color: "#b2ff00"
+            backgroundColor: "#b2ff00"
         });
     });
     
@@ -65,7 +65,7 @@ $(document).ready(function() {
             color: "#ff6100"
         }, 300);
         $(this).find(".test").animate({
-            color: "#ff6100"
+            backgroundColor: "#ff6100"
         });
     });
 });
