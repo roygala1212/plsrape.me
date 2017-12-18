@@ -54,18 +54,12 @@ $(document).ready(function() {
         $(this).animate({
             color: "#b2ff00"
         }, 300);
-        $(this).before().animate({
-            backgroundColor: "#b2ff00"
-        }, 300);
     });
     
     $("a").mouseout(function() {
         $(this).stop();
         $(this).animate({
             color: "#ff6100"
-        }, 300);
-        $(this).before().animate({
-            backgroundColor: "#ff6100"
         }, 300);
     });
 });
