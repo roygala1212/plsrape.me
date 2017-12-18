@@ -78,7 +78,8 @@ video#bgvid {
 
 .links {
 	font-family: "simple" !important;
-	font-size: 20px;
+	font-style: bold;
+	font-size: 25px;
 	color: #ff6100;
 	opacity: 0;
 }
