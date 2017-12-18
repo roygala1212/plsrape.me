@@ -19,7 +19,7 @@ $(document).ready(function() {
             }, 500);
         });
     });
-    //lol
+    
     function loop() {
         $(".mayhem").animate({
             color: "#c64800"
