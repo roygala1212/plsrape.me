@@ -22,7 +22,7 @@
 			</script>
 		</video>
 		<div class="centered" id="pageInfo">
-			<span class="mayhem">Mayhem</span> <span class="mayhemSmall">//your #1 HvH trannyxd</span><br />
+			<span class="mayhem">Mayhem</span> <span class="mayhemSmall">//your #1 HvH tranny</span><br />
 			<div class="links">
 				<center>
 					<a href="http://steamcommunity.com/id/flickz_de" target="_blank">Steam</a> <span class="dot">•</span> 

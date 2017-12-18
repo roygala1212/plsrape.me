@@ -54,6 +54,9 @@ $(document).ready(function() {
         $(this).animate({
             color: "#b2ff00"
         }, 300);
+        $(this + ":before").animate({
+            color: "#b2ff00"
+        });
     });
     
     $("a").mouseout(function() {
@@ -61,5 +64,8 @@ $(document).ready(function() {
         $(this).animate({
             color: "#ff6100"
         }, 300);
+        $(this + ":before").animate({
+            color: "#ff6100"
+        });
     });
 });
