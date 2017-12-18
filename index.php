@@ -15,6 +15,12 @@
 	</head>
 	
 	<body>
+		<div class="preLoader">
+			<div class="spinner">
+  				<div class="double-bounce1"></div>
+  				<div class="double-bounce2"></div>
+			</div>
+		</div>
 		<video playsinline autoplay loop poster="./src/media/video.png" id="bgvid">
 			<source src="./src/media/video.mp4" type="video/mp4" />
 			<script>

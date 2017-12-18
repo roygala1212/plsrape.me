@@ -4,6 +4,11 @@ function animateTitle() {
     document.title = pageTitle;
     setTimeout("animateTitle()", 300);
 }
+
+$(window).load(function() {
+    $(".preLoader").fadeOut("slow");
+});
+
 $(document).ready(function() {
     animateTitle();
     
