@@ -55,8 +55,7 @@ video#bgvid {
 
 #pageInfo a, #pageInfo a:link, #pageInfo a:visited, #pageInfo a:hover, #pageInfo a:active {
 	color: #ff6100;
-	text-decoration: underline;
-	text-decoration-color: rgba(255, 97, 0, 0);
+	text-decoration: none;
 }
 
 .mayhem {
@@ -78,8 +77,6 @@ video#bgvid {
 .links {
 	font-family: "simple" !important;
 	font-weight: bold;
-	position: relative;
-	bottom: 10px;
 	letter-spacing: 1.5px;
 	font-size: 23px;
 	color: #ff6100;
