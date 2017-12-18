@@ -61,7 +61,7 @@
 					$(this).stop();
 					$(this).animate({
 						color: "#b2ff00",
-						textDecorationColor: "#ff6200"
+						textDecorationColor: jQuery.color({rgba(255, 97, 0, 255)})
 					}, 150);
 				});
 				
@@ -69,7 +69,7 @@
 					$(this).stop();
 					$(this).animate({
 						color: "#ff6100",
-						textDecorationColor: "#ff620000"
+						textDecorationColor: jQuery.color({rgba(255, 97, 0, 0)})
 					}, 250);
 				});
 			});
