@@ -1,0 +1,83 @@
+@font-face {
+	src: url('../fonts/blowbrush.ttf');
+	src: url('../fonts/eagle.ttf');
+}
+
+body {
+	background-color: #000000;
+}
+
+video {
+	display: block;
+}
+
+video#bgvid {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -100;
+	-ms-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+	background: url(../media/video.png) no-repeat;
+	background-size: cover;
+}
+
+.centered {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+
+#pageInfo {
+	/*width: 540px;
+	height: 130px;*/
+	color: white;
+	cursor: default;
+	font-family: "blowbrush";
+	background: none repeat scroll 0 0;
+    color: #00c3ff;
+    /*text-shadow: 0 -1px 1px #666666, 0 1px 1px #FFFFFF;*/
+	/*text-shadow: 0 -2px 2px #FFFFFF, 0 2px 2px #666666;*/
+	text-shadow: 1px 1px #333333;
+}
+
+#pageInfo a, #pageInfo a:link, #pageInfo a:visited, #pageInfo a:hover, #pageInfo a:active {
+	color: #ff6100;
+	text-decoration: none;
+}
+
+.mayhem {
+	font-size: 60px;
+	color: #c60000;
+	width: 193px;
+	height: 72px;
+	opacity: 0;
+}
+
+.mayhemSmall {
+	font-size: 35px;
+	color: #ff6100;
+	opacity: 0;
+}
+
+.links {
+	font-size: 20px;
+	color: #ff6100;
+	opacity: 0;
+}
+
+.zeus {
+	font-family: "eagle";
+	position: relative;
+	top: 3px;
+}
