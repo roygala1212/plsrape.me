@@ -22,7 +22,7 @@ $(document).ready(function() {
     
     function loop() {
         $(".mayhem").animate({
-            color: "#c64800"
+            color: "#ffbc02"
         }, 1500, function() {
             $(".mayhem").animate({
                 color: "#a8c600"
